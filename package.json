@@ -1,5 +1,6 @@
-name: 'svelte3',
-dependencies: {
-},
-licence: ''
-
+{
+  "name": "svelte3",
+  "dependencies": {
+  },
+  "licence": "MIT"
+}
